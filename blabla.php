@@ -1,3 +1,3 @@
 <?php
 
-while (true) echo('bla');
+while (true) echo 'bla';

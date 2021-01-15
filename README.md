@@ -10,5 +10,5 @@ Utilisation :
 - Arriver dans une conversation où ça discute
 - Partager son écran
 ```
-php index.php
+php blabla.php
 ```
